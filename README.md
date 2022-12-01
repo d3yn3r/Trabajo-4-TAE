@@ -13,5 +13,5 @@
  Amilder Stewin Ospina Tobon 
  
 <div style="text-align: justify">
-En este repositorio esta contenido el notebook con el paso a paso de la solución propuesta por nuestro equipo y con los comentarios de cada parte del desarrollo, además en el archivo leaderboard se encuentra la puntuación obtenida por el equipo de desarrollo en la plataforma kaggle.
+En este repositorio esta contenido el notebook con el paso a paso de la solución propuesta por nuestro equipo, con los comentarios de cada parte del desarrollo, además en el archivo leaderboard se encuentra la puntuación obtenida por el equipo de desarrollo en la plataforma kaggle.
 </div>
