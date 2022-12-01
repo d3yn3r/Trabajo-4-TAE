@@ -18,4 +18,4 @@ En este repositorio esta la solución propuesta al reto contenido en la platafor
 <h5>Leader Board</h5>
 </div>
 
-![](https://github.com/d3yn3r/TAE-T1/blob/main/Imagenes_2/Mapa%20de%20correlacion.PNG)
+![](https://github.com/d3yn3r/Trabajo-4-TAE/blob/main/leaderboard.png)
